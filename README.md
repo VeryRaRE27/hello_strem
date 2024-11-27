@@ -17,3 +17,4 @@ A simple Streamlit app that lets you build simple ML models with scikit-learn.
    ```
    $ streamlit run streamlit_app.py
    ```
+I am editing the README file. Adding some more details about the project description 
